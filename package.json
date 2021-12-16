@@ -1,5 +1,5 @@
 {
-  "name": "is-grapqhl",
+  "name": "is-graphql",
   "version": "0.0.1",
   "description": "Checks if text content is GraphQL request document",
   "main": "index.js",
