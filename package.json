@@ -1,0 +1,26 @@
+{
+  "name": "is-grapqhl",
+  "version": "0.0.1",
+  "description": "Checks if text content is GraphQL request document",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaeesBhatti/is-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "is-graphql",
+    "graph",
+    "ql"
+  ],
+  "author": "Raees Iqbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaeesBhatti/is-graphql/issues"
+  },
+  "homepage": "https://github.com/RaeesBhatti/is-graphql#readme"
+}
