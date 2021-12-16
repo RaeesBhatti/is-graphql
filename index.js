@@ -5,7 +5,7 @@ function isGraphQL(content) {
     throw new Error("content must be a string");
   }
 
-  const firstLine = content.toLowerCase().trim().split("\n").shift().split(/\s/g).join("");
+  const firstLine = content.toLowerCase().trim().split(/\s/g).join("");
   return regex.test(firstLine);
 }
 
